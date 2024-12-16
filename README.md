@@ -31,17 +31,17 @@ This is a simple implementation of the classic Snake game developed in C++. The 
 - **Escape**: Exit the game.
 
 ## File Structure
-/miniPrg
-│
-├── src
-│   ├── Game.cpp          # Main game logic
-│   ├── Snake.cpp         # Snake class implementation
-│   ├── Fruit.cpp         # Fruit class implementation
-│   ├── Obstacle.cpp      # Obstacle class implementation
-│   ├── ScoreManager.cpp   # Score management
-│   └── main.cpp          # Entry point of the game
-│
-└── README.md             # Project documentation
+/miniPrg <br/>
+│<br/>
+├── src<br/>
+│   ├── Game.cpp          # Main game logic<br/>
+│   ├── Snake.cpp         # Snake class implementation<br/>
+│   ├── Fruit.cpp         # Fruit class implementation<br/>
+│   ├── Obstacle.cpp      # Obstacle class implementation<br/>
+│   ├── ScoreManager.cpp   # Score management<br/>
+│   └── main.cpp          # Entry point of the game<br/>
+│<br/>
+└── README.md             # Project documentation<br/>
 
 ## Acknowledgments
 This project was developed as part of the OOP module requirements.
