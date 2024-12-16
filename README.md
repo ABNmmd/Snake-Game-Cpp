@@ -31,8 +31,6 @@ This is a simple implementation of the classic Snake game developed in C++. The 
 - **Escape**: Exit the game.
 
 ## File Structure
-/miniPrg <br/>
-│<br/>
 ├── src<br/>
 │   ├── Game.cpp          # Main game logic<br/>
 │   ├── Snake.cpp         # Snake class implementation<br/>
