@@ -19,7 +19,7 @@ This is a simple implementation of the classic Snake game developed in C++. The 
 2. Ensure you have SFML installed on your system.
 3. Compile the project using a C++ compiler with SFML linked. For example:
    ```bash
-   g++ -o SnakeGame src/*.cpp -lsfml-graphics -lsfml-window -lsfml-system
+    make
    ```
 4. Run the executable:
     ```bash
