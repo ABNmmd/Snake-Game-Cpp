@@ -1,4 +1,4 @@
-# Snake Game in C++
+# Snake Game in C++ - FSA
 
 ## Overview
 This is a simple implementation of the classic Snake game developed in C++. The project was created as a mini project for the Object-Oriented Programming (OOP) module. The game features a snake that the player controls to eat fruits, grow in size, and avoid obstacles.
